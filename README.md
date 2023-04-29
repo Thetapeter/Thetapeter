@@ -1,8 +1,6 @@
 Hi! I am Peter.
 
-~~Current~~ Status: Procrastination
-
-------
+~~Current~~ Status: Procrastinating
 
 * Currently Learning: Deep Learning :desktop_computer:
 * Working on: AIST Project :memo:
